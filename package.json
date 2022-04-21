@@ -1,0 +1,23 @@
+{
+  "name": "pass-available-hours-watcher",
+  "version": "1.0.0",
+  "description": "Watches available hours for passport renewal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Haimanot1989/pass-available-hours-watcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haimanot1989/pass-available-hours-watcher/issues"
+  },
+  "homepage": "https://github.com/Haimanot1989/pass-available-hours-watcher#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.3",
+    "nodemailer": "^6.7.3"
+  }
+}
